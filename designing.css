@@ -1,0 +1,96 @@
+.main 
+{
+    background-image: url("https://website-files.genpact.com/redesign/images/_1200x630_crop_center-center_82_none/basic-hero-instinctive-enterprise-cfo-finance.jpg?mtime=1653483826");
+    background-size: cover;
+    
+}
+
+.st-emotion-cache-1avcm0n {
+    background-color: rgba(0,0,0,0);
+}
+
+.st-emotion-cache-vj1c9o
+{
+    background-color: rgba(0,0,0,0)
+}
+
+.st-emotion-cache-s1k4sy e1d2x3se3{
+    background-color: black;
+}
+
+.chat-message {
+    padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 1rem; display: flex
+}
+.chat-message.user {
+    background-color: black
+}
+.chat-message.bot {
+    background-color: black
+}
+.chat-message .avatar {
+  width: 20%;
+}
+.chat-message .avatar img {
+  max-width: 78px;
+  max-height: 78px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.chat-message .message {
+  width: 80%;
+  padding: 0 1.5rem;
+  color: #fff;
+}
+
+.st-emotion-cache-10trblm {
+    color : #fff;
+}
+
+.st-emotion-cache-i03kcn {
+    color : #fff;   
+}
+
+.st-emotion-cache-8tfehp{
+    color : #fff;
+}
+
+.st-emotion-cache-1uog3sk {
+    border-color: #fff;
+}
+
+.st-bd {
+    color: rgb(251 251 251);
+    caret-color: rgb(251 251 251);
+}
+
+.st-emotion-cache-0 {
+    border-color: white;
+}
+.st-emotion-cache-akpgib {
+    color: white;
+}
+
+.st-emotion-cache-x6ri8s {
+    border-color: white;
+}
+
+.row-widget stTextInput st-emotion-cache-1avsmr7 e11y4ecf0 {
+    border-color: white;
+    color: white;
+}
+
+.input value {
+    color: rgb(251 251 251);
+}
+
+img {
+    border-radius: 30%;
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.st-emotion-cache-10trblm {
+    text-align: center;
+}
